@@ -36,11 +36,9 @@ vue 3
 
 # 运行
 
-npm install 安装好对应的库，要是vscode的话，也许你需要自己完善以下环境配置
-
-npm run dev 热加载模式
-
-npm run build 打包模式
+- npm install 安装好对应的库，要是vscode的话，也许你需要自己完善以下环境配置
+- npm run dev 热加载模式
+- npm run build 打包模式
 
 # 推荐
 - 这里我推荐一个css样式网站
