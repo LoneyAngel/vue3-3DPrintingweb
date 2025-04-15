@@ -1,0 +1,13 @@
+/* 添加自己引入的字体 */
+@font-face {
+    font-family: 'MyFont1';
+    src: url('@/assets/fonts/Oswald-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MyFont2';
+    src: url('@/assets/fonts/rawest-medium-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
