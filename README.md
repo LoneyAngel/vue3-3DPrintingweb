@@ -20,7 +20,7 @@
     - css (样式)
     - resource (资源)
   - components (组件)
-  - tick (小组件)
+    - tick (小组件)
   - utils (工具)
   - App.vue (根组件)
   - main.js (入口文件)
