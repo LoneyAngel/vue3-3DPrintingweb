@@ -31,8 +31,8 @@
 utils 下的 instance 中的 ip 地址给填上，如果你想和后端通信的话
 
 # 版本
-node v22.14.0
-vue 3
+- node v22.14.0
+- vue 3
 
 # 运行
 
