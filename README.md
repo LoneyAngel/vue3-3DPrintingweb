@@ -31,5 +31,7 @@ utils 下的 instance 中的 ip 地址给填上，要是你想和后端通信的
 # 运行
 
 npm install
+
 npm run dev 热加载模式
+
 npm run build 打包模式
