@@ -6,8 +6,8 @@
 - 这是一个简单的 3D 打印服务站，前端使用 Vite+Vue3+路由守卫 来实现。
 - 后端使用jsexpress进行快速开发
 
-- （这个项目其实并没有使用到 element-plus，我搞错了，就当成 div 一直用下去了）
-界面做的还行
+- 这个项目其实并没有使用到 element-plus，刚开始搞错了，就当成 div 一直用下去了
+- 界面做的还行
 
 - 展示链接：https://stalabwork.xin
 
@@ -31,11 +31,11 @@
 
 utils 下的 instance 中的 ip 地址给填上，如果你想和后端通信的话
 
-# 版本
+## 版本
 - node v22.14.0
 - vue 3
 
-# 运行
+## 运行
 
 - npm install 安装好对应的库，要是vscode的话，也许你需要自己完善以下环境配置
 - npm run dev 热加载模式
