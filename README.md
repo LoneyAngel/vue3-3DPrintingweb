@@ -38,6 +38,7 @@ utils 下的 instance 中的 ip 地址给填上，如果你想和后端通信的
 ## 运行
 
 - npm install 安装好对应的库，要是vscode的话，也许你需要自己完善以下环境配置
+- npm run start 热加载模式
 - npm run dev 热加载模式
 - npm run build 打包模式
 
