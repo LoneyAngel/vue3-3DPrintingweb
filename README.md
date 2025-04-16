@@ -8,7 +8,7 @@
 - 后端使用jsexpress进行快速开发
 
 - 这个项目其实并没有使用到 element-plus，刚开始搞错了，就当成 div 一直用下去了
-- 界面做的还行
+- 界面还行
 
 - 展示链接：https://stalabwork.xin
 
@@ -30,7 +30,7 @@
 
 # 启动须知
 
-utils 下的 instance 中的 ip 地址给填上，如果你想和后端通信的话
+utils 下的 instance 中的 后端访问地址 给填上，如果你想和后端通信的话
 
 ## 版本
 - node v22.14.0
@@ -38,7 +38,7 @@ utils 下的 instance 中的 ip 地址给填上，如果你想和后端通信的
 
 ## 运行
 
-- npm install 安装好对应的库，要是vscode的话，也许你需要自己完善以下环境配置
+- npm install 安装好对应的库，要是vscode的话，需要你自己完善一下环境配置（vue,vite等）
 - npm run start 热加载模式
 - npm run dev 热加载模式
 - npm run build 打包模式
